@@ -1,4 +1,4 @@
-# today
+
 from tkinter import *
 import tkinter.messagebox as ms
 import mysql.connector as sq
